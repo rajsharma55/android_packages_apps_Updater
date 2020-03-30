@@ -40,7 +40,7 @@
                     android:fontFamily="@*android:string/config_headlineFontFamily"
                     android:paddingBottom="16dp"
                     android:textColor="?android:attr/textColorPrimary"
-                    android:textSize="26sp" />
+                    android:textSize="56sp" />
 
                 <TextView
                     android:id="@+id/header_build_version"
