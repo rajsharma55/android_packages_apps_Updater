@@ -34,7 +34,7 @@
                 android:paddingBottom="8sp"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="16sp"
-                tools:text="AIM System 4.0" />
+                tools:text="StagOS-10.0.2" />
 
             <TextView
                 android:id="@+id/build_date"
